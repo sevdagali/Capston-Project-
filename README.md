@@ -1,3 +1,9 @@
+
+<img width="959" alt="Screenshot 2024-02-07 234834" src="https://github.com/sturmanidze/Capston-Project-/assets/71189710/7fcfcc37-d588-418e-bc37-c0dbd50b04d9">
+
+
+
+
 # Capston-Project-
 A small retailer specializing in Classic cars, encounters challenges managing and analyzing sales data. Their sales team lacks a centralized system for data management and analysis. To tackle this, they plan to adopt a Business Intelligence (BI) tool like MySQL or Power BI to efficiently handle and analyze their sales data.
 
