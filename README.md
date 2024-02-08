@@ -8,6 +8,15 @@ Moving forward to Step 2, I delved into the realm of advanced analytics using My
 
 By seamlessly merging the capabilities of MySQL and Power BI, I have laid the foundation for a transformative data-driven approach. Armed with comprehensive analytics and intuitive visualizations, Axon is poised to navigate the intricate landscape of Classic car retailing with newfound precision and agility.
 
+INSIGHTS
+The USA leads in revenue and sales during 2003, 2004, and 2005, followed by Spain, France, and Australia.
+The top customer Euro+ shopping channel and second Mini Gift Distributors Ltd. 
+Sales peaked in November from 2003 to 2005, likely due to Thanksgiving or could be some different reason. 
+Among product lines like vintage cars, planes, motorcycles, ships, trucks, and trains, Classic cars had the highest total cost. s are most sales by product line
+>The USA has the highest revenue and sales in these years 2003, 2004 and 2005 as followed Spain, France and Australia.
+Classic cars and Vintage cars dominate sales among product lines sales trend during the period of 2003-2005, the November month is the peak month because November is the Thanks giving month 
+
+
 
 
 
